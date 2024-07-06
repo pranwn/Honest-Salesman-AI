@@ -3,7 +3,7 @@ products = {
     'laptop': {
         'description': 'A high-performance laptop with 16GB RAM and 512GB SSD. Perfect for gaming, video editing, and heavy-duty tasks!',
         'price': 1200,
-        'tock': 5,
+        'stock': 5,
         'color': '\033[94m',  # Blue
         'advice': 'If you\'re a heavy user, this laptop is a great investment!',
         'average_money_range': 1000,
@@ -17,7 +17,7 @@ products = {
     'phone': {
         'description': 'A smartphone with a great camera and long battery life. Capture life\'s precious moments with crystal-clear clarity!',
         'price': 800,
-        'tock': 10,
+        'stock': 10,
         'color': '\033[92m',  # Green
         'advice': 'If you\'re due for an upgrade, this phone is a great choice!',
         'average_money_range': 500,
@@ -31,7 +31,7 @@ products = {
     'headphones': {
         'description': 'Noise-cancelling headphones with superior sound quality. Immerse yourself in pure audio bliss!',
         'price': 150,
-        'tock': 20,
+        'stock': 20,
         'color': '\033[93m',  # Yellow
         'advice': 'If you love music, these headphones are a must-have!',
         'average_money_range': 100,
@@ -45,7 +45,7 @@ products = {
     'tablet': {
         'description': 'A sleek and powerful tablet perfect for reading, browsing, and streaming your favorite content!',
         'price': 500,
-        'tock': 15,
+        'stock': 15,
         'color': '\033[94m',  # Blue
         'advice': 'If you want a portable entertainment device, this tablet is a great option!',
         'average_money_range': 300,
@@ -59,7 +59,7 @@ products = {
     'martwatch': {
         'description': 'A stylish smartwatch that tracks your fitness goals and keeps you connected on-the-go!',
         'price': 200,
-        'tock': 12,
+        'stock': 12,
         'color': '\033[95m',  # Magenta
         'advice': 'If you\'re into fitness, this smartwatch is a great motivator!',
         'average_money_range': 150,
@@ -73,7 +73,7 @@ products = {
     'gamingconsole': {
         'description': 'A powerful gaming console with stunning graphics and immersive gameplay. Get ready to level up!',
         'price': 300,
-        'tock': 8,
+        'stock': 8,
         'color': '\033[91m',  # Red
         'advice': 'If you\'re a gamer, this console is a must-have!',
         'average_money_range': 200,
